@@ -28,6 +28,7 @@
 [Предсказание стоимости списка объектов. Экран 2](https://github.com/Dimentel/hse_ml_hw01/blob/master/notebooks/items_POST_screen_2.PNG)
 
 
+
 В ходе реализации сервиса:
 
 - средствами pydantic описан класс базового объекта и класс с коллецией объектов,
